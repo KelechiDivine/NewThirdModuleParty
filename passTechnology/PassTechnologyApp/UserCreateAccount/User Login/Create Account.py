@@ -1,0 +1,2 @@
+class UserCreateAccount:
+    pass
